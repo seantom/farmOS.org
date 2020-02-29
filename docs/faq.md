@@ -19,6 +19,7 @@ You can also refer to the [Drupal.org Usage Statistics] for farmOS, which shows
 how many active farmOS installations are out there in the wild. Note that this
 only includes installations that have their "Update" module enabled.
 
+## How do I use farmOS?
 
 > How do I start using farmOS?
 
